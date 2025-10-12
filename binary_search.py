@@ -11,6 +11,8 @@ def binary_search(list1 ,item):
         if list1[middle] == item:
             found  = True
 
+            
+
         else:
             if list1[middle] > item:
                 last = middle-1

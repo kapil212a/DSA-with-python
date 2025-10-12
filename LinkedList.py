@@ -1,4 +1,5 @@
 class Node:
+
     def __init__(self,data):
         self.data = data
         self.next =None
@@ -11,6 +12,7 @@ def getll(head):
         temp = temp.next
 
     print(None)
+    
 
 node1 = Node("deepak")
 node2 = Node("rohit")

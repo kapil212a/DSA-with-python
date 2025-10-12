@@ -4,7 +4,7 @@ item = 1500
 def linear_search(list1 , item):
     for i in list1:
         if i== item:
-            
+
             return True
         
 

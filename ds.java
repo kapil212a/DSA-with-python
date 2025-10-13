@@ -24,7 +24,6 @@ public class ds {
         int arr[] = {1,2,3,4,5};
         reverse(arr);
         printarr(arr);
-
         
     }
 }
